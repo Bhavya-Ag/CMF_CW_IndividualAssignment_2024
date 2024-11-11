@@ -11,10 +11,7 @@
 This repository contains my individual project for the Computational Methods for Finance module. The project demonstrates the application of Python in financial analysis, focusing on the use of key libraries and implementation of financial models.
 
 ## Repository Contents
-- `Numpy_Example.ipynb`: Jupyter notebook demonstrating NumPy usage
-- `Pandas_Example.ipynb`: Jupyter notebook showcasing Pandas functionality
-- `yfinance_Example.ipynb`: Example of using yfinance for data retrieval
-- `Matplotlib_Example.ipynb`: Visualization example using Matplotlib
+- `Example_using_Libraries.ipynb`: Jupyter notebook demonstrating NumPy, Pandas, Matplotlib and yfinance usage by analysing Apple stock
 - `HistoricalData_yfinance.ipynb`: Script for downloading historical stock data
 - `HSBC_AstraZeneca_2years_data.csv`: CSV file containing 2-year historical data for selected FTSE 100 stocks
 
