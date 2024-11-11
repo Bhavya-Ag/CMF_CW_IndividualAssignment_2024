@@ -14,6 +14,7 @@ This repository contains my individual project for the Computational Methods for
 - `Example_using_Libraries.ipynb`: Jupyter notebook demonstrating NumPy, Pandas, Matplotlib and yfinance usage by analysing Apple stock
 - `HistoricalData_yfinance.ipynb`: Script for downloading historical stock data
 - `HSBC_AstraZeneca_2years_data.csv`: CSV file containing 2-year historical data for selected FTSE 100 stocks
+- `HSBC_AstraZeneca_DataHandling.ipynb`: Script for handling and analyzing HSBC and AstraZeneca stock data
 
 ## Project Objectives
 1. Explain and demonstrate the use of Python libraries: numpy, pandas, matplotlib, and yfinance
